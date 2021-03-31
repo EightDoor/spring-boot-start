@@ -1,0 +1,13 @@
+mybatis:
+  # mapper位置
+  mapper-locations: classpath*:mapper/*Mapper.xml
+spring:
+  datasource:
+    # 连接地址
+    url: jdbc:mysql://bt.start6.cn:3306/spring-admin?characterEncoding=utf8&serverTimezone=UTC
+    # 用户名
+    username: spring-admin
+    # 密码
+    password: spring-admin
+    # 数据库驱动
+    driver-class-name: com.mysql.cj.jdbc.Driver
