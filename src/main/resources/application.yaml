@@ -3,3 +3,18 @@ spring:
     active: dev
 server:
   port: 9090
+mybatis:
+  # mapper xml文件路径
+  mapper-locations: classpath*:mapper/*.xml
+  # 通用mapper配置
+mapper:
+  mappers: tk.mybatis.mapper.common.Mapper
+  not-empty: false
+  # 主键自增回写，默认为 MYSQL
+  identity: MYSQL
+# 分页插件配置
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql

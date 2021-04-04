@@ -1,6 +1,3 @@
-mybatis:
-  # mapper位置
-  mapper-locations: classpath*:mapper/*Mapper.xml
 spring:
   datasource:
     # 连接地址
@@ -11,3 +8,5 @@ spring:
     password: spring-admin
     # 数据库驱动
     driver-class-name: com.mysql.cj.jdbc.Driver
+  # 驼峰命名规范 如: 数据库字段是  order_id 那么 实体字段就要写成 orderId
+  configuration.map-underscore-to-camel-case: true
