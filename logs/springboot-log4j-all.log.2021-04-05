@@ -1,0 +1,596 @@
+2021-04-05 18:00:27,396  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:00:27,851  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 15660 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:00:27,851  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:00:27,905  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:00:27,905  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:00:28,564  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:00:28,564  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:00:29,074  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:00:29,174  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1268 ms
+2021-04-05 18:00:29,262  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:00:29,369  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:00:29,845  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:00:29,996  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:00:29,997  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:00:29,998  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:00:29,998  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:00:30,083  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:00:30,139  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:00:30,149  INFO Start6Application:61 - Started Start6Application in 2.795 seconds (JVM running for 5.43)
+2021-04-05 18:03:20,418  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:04:42,596  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:04:42,598  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:04:42,601  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:04:48,438  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:04:48,828  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 18852 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:04:48,828  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:04:48,871  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:04:48,871  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:04:49,402  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:04:49,402  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:04:49,808  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:04:49,890  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1018 ms
+2021-04-05 18:04:50,067  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:04:50,183  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:04:50,258  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:04:50,281  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:04:50,281  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:04:50,281  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:04:50,282  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:04:50,573  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:04:50,618  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:04:50,628  INFO Start6Application:61 - Started Start6Application in 2.219 seconds (JVM running for 3.707)
+2021-04-05 18:05:11,115  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:06:03,217  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:06:48,928  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:10:25,230  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:10:25,232  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:10:25,233  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:11:11,977  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:11:12,364  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 1108 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:11:12,364  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:11:12,406  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:11:12,407  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:11:12,942  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:11:12,943  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:11:13,345  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:11:13,422  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1015 ms
+2021-04-05 18:11:13,575  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:11:13,730  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:11:13,821  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:11:13,841  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:11:13,842  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:11:13,842  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:11:13,843  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:11:14,138  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:11:14,185  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:11:14,195  INFO Start6Application:61 - Started Start6Application in 2.244 seconds (JVM running for 3.523)
+2021-04-05 18:11:43,407  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:11:43,409  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:11:43,409  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:11:49,689  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:11:50,086  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 17952 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:11:50,086  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:11:50,130  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:11:50,131  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:11:50,701  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:11:50,701  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:11:51,126  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:11:51,208  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1069 ms
+2021-04-05 18:11:51,366  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:11:51,491  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:11:51,566  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:11:51,586  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:11:51,587  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:11:51,587  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:11:51,588  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:11:51,851  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:11:51,895  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:11:51,904  INFO Start6Application:61 - Started Start6Application in 2.251 seconds (JVM running for 3.74)
+2021-04-05 18:12:14,756  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:12:14,757  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:12:14,757  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:12:20,320  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:12:20,685  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 10268 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:12:20,686  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:12:20,739  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:12:20,739  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:12:21,250  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:12:21,250  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:12:21,651  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:12:21,737  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 997 ms
+2021-04-05 18:12:21,895  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:12:22,017  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:12:22,106  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:12:22,129  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:12:22,129  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:12:22,130  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:12:22,131  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:12:22,480  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:12:22,533  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:12:22,546  INFO Start6Application:61 - Started Start6Application in 2.25 seconds (JVM running for 3.437)
+2021-04-05 18:12:58,955  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:12:58,957  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:12:58,957  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:13:04,409  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:13:04,764  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20852 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:13:04,764  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:13:04,816  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:13:04,816  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:13:05,401  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:13:05,402  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:13:05,897  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:13:05,984  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1167 ms
+2021-04-05 18:13:06,178  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:13:06,315  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:13:06,410  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:13:06,433  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:13:06,434  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:13:06,435  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:13:06,436  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:13:06,811  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:13:06,855  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:13:06,864  INFO Start6Application:61 - Started Start6Application in 2.48 seconds (JVM running for 3.699)
+2021-04-05 18:13:44,131  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:13:44,132  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:13:44,132  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:13:49,878  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:13:50,236  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 5888 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:13:50,237  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:13:50,281  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:13:50,281  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:13:50,806  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:13:50,807  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:13:51,264  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:13:51,358  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1076 ms
+2021-04-05 18:13:51,545  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:13:51,666  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:13:51,752  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:13:51,772  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:13:51,773  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:13:51,773  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:13:51,774  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:13:52,143  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:13:52,193  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:13:52,205  INFO Start6Application:61 - Started Start6Application in 2.352 seconds (JVM running for 3.61)
+2021-04-05 18:22:25,816  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:22:37,234  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 18:22:37,235  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 18:22:37,236  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:22:43,318  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 18:22:43,667  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20732 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 18:22:43,668  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 18:22:43,716  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 18:22:43,716  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 18:22:44,324  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 18:22:44,325  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 18:22:44,743  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 18:22:44,829  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1111 ms
+2021-04-05 18:22:45,011  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 18:22:45,132  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 18:22:45,208  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 18:22:45,229  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 18:22:45,229  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 18:22:45,229  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 18:22:45,230  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 18:22:45,615  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 18:22:45,659  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 18:22:45,668  INFO Start6Application:61 - Started Start6Application in 2.378 seconds (JVM running for 3.762)
+2021-04-05 18:23:50,469  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-05 18:23:50,470  INFO DispatcherServlet:547 - Completed initialization in 1 ms
+2021-04-05 18:24:52,641  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:17:22,531  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:17:22,534  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:17:22,535  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:17:30,902  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 19:17:31,360  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 5848 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:17:31,360  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:17:31,413  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:17:31,413  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:17:31,869  WARN ClassPathScanningCandidateComponentProvider:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:17:32,004  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:17:32,434  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:17:32,521  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1107 ms
+2021-04-05 19:17:32,569  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysUserController': Unsatisfied dependency expressed through field 'sysUserMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-04-05 19:17:32,591  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-05 19:17:32,614 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sysUserMapper in cn.start6.zk.web.sys.controller.SysUserController required a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' in your configuration.
+
+2021-04-05 19:18:57,815  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 19:18:58,204  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20660 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:18:58,205  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:18:58,252  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:18:58,252  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:18:58,811  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:18:58,811  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:18:59,261  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:18:59,346  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1093 ms
+2021-04-05 19:18:59,412  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:18:59,489  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:18:59,887  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:19:00,025  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:19:00,025  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:19:00,026  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:19:00,026  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:19:00,133  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:19:00,183  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:19:00,193  INFO Start6Application:61 - Started Start6Application in 2.403 seconds (JVM running for 3.766)
+2021-04-05 19:19:59,312  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:19:59,313  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:19:59,314  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:20:07,969  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 19:20:08,447  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 13500 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:20:08,448  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:20:08,522  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:20:08,522  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:20:09,111  WARN ClassPathScanningCandidateComponentProvider:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:20:09,242  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:20:09,912  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:20:10,056  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1533 ms
+2021-04-05 19:20:10,413  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:20:10,610  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:20:10,699  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:20:10,719  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:20:10,720  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:20:10,721  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:20:10,722  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:20:10,984  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:20:11,044  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:20:11,056  INFO Start6Application:61 - Started Start6Application in 3.123 seconds (JVM running for 4.665)
+2021-04-05 19:20:30,742  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:20:30,772  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:20:30,773  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:20:30,774  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:20:36,648  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 19:20:37,116  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 15452 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:20:37,116  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:20:37,165  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:20:37,165  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:20:37,590  WARN ClassPathScanningCandidateComponentProvider:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:20:37,699  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:20:38,131  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:20:38,218  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1052 ms
+2021-04-05 19:20:38,269  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysUserController': Unsatisfied dependency expressed through field 'sysUserMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-04-05 19:20:38,291  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-05 19:20:38,303 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sysUserMapper in cn.start6.zk.web.sys.controller.SysUserController required a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' in your configuration.
+
+2021-04-05 19:21:18,667  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-05 19:21:19,063  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 9148 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:21:19,064  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:21:19,115  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:21:19,116  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:21:19,549  WARN ClassPathScanningCandidateComponentProvider:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:21:19,649  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:21:20,073  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:21:20,158  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1042 ms
+2021-04-05 19:21:20,208  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysUserController': Unsatisfied dependency expressed through field 'sysUserMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-04-05 19:21:20,230  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-05 19:21:20,242 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sysUserMapper in cn.start6.zk.web.sys.controller.SysUserController required a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' in your configuration.
+
+2021-04-05 19:21:33,091  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 7040 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:21:33,093  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:21:33,125  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:21:33,125  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:21:33,511  WARN ClassPathMapperScanner:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:21:33,598  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:21:33,830  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:21:33,896  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 770 ms
+2021-04-05 19:21:33,926  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysUserController': Unsatisfied dependency expressed through field 'sysUserMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-04-05 19:21:33,945  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-05 19:21:33,955 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sysUserMapper in cn.start6.zk.web.sys.controller.SysUserController required a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' in your configuration.
+
+2021-04-05 19:21:46,254  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20088 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:21:46,255  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:21:46,280  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:21:46,281  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:21:46,641  WARN ClassPathMapperScanner:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:21:46,723  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:21:46,985  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:21:47,053  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 772 ms
+2021-04-05 19:21:47,085  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysUserController': Unsatisfied dependency expressed through field 'sysUserMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-04-05 19:21:47,100  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-05 19:21:47,110 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sysUserMapper in cn.start6.zk.web.sys.controller.SysUserController required a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'cn.start6.zk.web.sys.mapper.SysUserMapper' in your configuration.
+
+2021-04-05 19:22:15,648  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 14928 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:22:15,650  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:22:15,678  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:22:15,678  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:22:16,073  WARN ClassPathMapperScanner:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:22:16,151  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:22:16,386  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:22:16,453  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 774 ms
+2021-04-05 19:22:16,566  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:22:16,651  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:22:16,714  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:22:16,731  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:22:16,731  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:22:16,731  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:22:16,732  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:22:16,925  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:22:16,967  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:22:16,978  INFO Start6Application:61 - Started Start6Application in 1.55 seconds (JVM running for 2.036)
+2021-04-05 19:24:41,881  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:24:41,881  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:24:41,882  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:24:50,223  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 10724 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:24:50,224  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:24:50,252  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:24:50,253  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:24:50,566 ERROR SpringApplication:858 - Application run failed
+java.lang.IllegalArgumentException: At least one base package must be specified
+	at org.springframework.util.Assert.notEmpty(Assert.java:378)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:273)
+	at tk.mybatis.spring.mapper.ClassPathMapperScanner.doScan(ClassPathMapperScanner.java:143)
+	at tk.mybatis.spring.annotation.MapperScannerRegistrar.registerBeanDefinitions(MapperScannerRegistrar.java:111)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:396)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:723)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:395)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:157)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:129)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:343)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at cn.start6.zk.Start6Application.main(Start6Application.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2021-04-05 19:25:08,412  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 21392 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:25:08,413  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:25:08,439  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:25:08,440  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:25:08,788  WARN ClassPathMapperScanner:146 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:25:08,866  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:25:09,096  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:25:09,163  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 723 ms
+2021-04-05 19:25:09,293  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:25:09,406  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:25:09,472  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:25:09,488  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:25:09,489  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:25:09,489  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:25:09,490  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:25:09,680  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:25:09,713  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:25:09,722  INFO Start6Application:61 - Started Start6Application in 1.518 seconds (JVM running for 1.967)
+2021-04-05 19:25:26,614  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-05 19:25:26,615  INFO DispatcherServlet:547 - Completed initialization in 1 ms
+2021-04-05 19:25:50,566  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:25:50,567  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:25:50,567  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:25:58,169  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20524 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:25:58,171  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:25:58,203  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:25:58,204  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:25:58,653  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:25:58,653  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:25:58,902  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:25:58,968  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 763 ms
+2021-04-05 19:25:59,076  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:25:59,154  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:25:59,223  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:25:59,238  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:25:59,239  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:25:59,239  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:25:59,240  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:25:59,495  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:25:59,531  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:25:59,541  INFO Start6Application:61 - Started Start6Application in 1.592 seconds (JVM running for 2.069)
+2021-04-05 19:26:01,277  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-05 19:26:01,277  INFO DispatcherServlet:547 - Completed initialization in 0 ms
+2021-04-05 19:26:01,948  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:26:01,949  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:26:01,950  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:02,009  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:26:02,010  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:26:02,015  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20524 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:26:02,016  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:26:02,188  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:26:02,188  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:26:02,236  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:26:02,259  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 241 ms
+2021-04-05 19:26:02,300  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:02,320  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:26:02,332  INFO DruidDataSource:986 - {dataSource-2} inited
+2021-04-05 19:26:02,341  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:26:02,341  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:26:02,342  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:26:02,342  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:26:02,502  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:26:02,519  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:26:02,522  INFO Start6Application:61 - Started Start6Application in 0.535 seconds (JVM running for 5.051)
+2021-04-05 19:26:02,523  INFO ConditionEvaluationDeltaLoggingListener:63 - Condition evaluation unchanged
+2021-04-05 19:26:03,932  INFO DruidDataSource:2039 - {dataSource-2} closing ...
+2021-04-05 19:26:03,932  INFO DruidDataSource:2111 - {dataSource-2} closed
+2021-04-05 19:26:03,932  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:03,982  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:26:03,983  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:26:03,990  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 20524 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:26:03,990  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:26:04,154  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:26:04,154  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:26:04,182  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:26:04,201  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 208 ms
+2021-04-05 19:26:04,238  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:04,256  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:26:04,264  INFO DruidDataSource:986 - {dataSource-3} inited
+2021-04-05 19:26:04,273  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:26:04,273  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:26:04,273  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:26:04,273  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:26:04,364  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:26:04,375  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:26:04,377  INFO Start6Application:61 - Started Start6Application in 0.411 seconds (JVM running for 6.906)
+2021-04-05 19:26:04,379  INFO ConditionEvaluationDeltaLoggingListener:63 - Condition evaluation unchanged
+2021-04-05 19:26:04,918  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-05 19:26:04,919  INFO DispatcherServlet:547 - Completed initialization in 1 ms
+2021-04-05 19:26:18,113  INFO DruidDataSource:2039 - {dataSource-3} closing ...
+2021-04-05 19:26:18,113  INFO DruidDataSource:2111 - {dataSource-3} closed
+2021-04-05 19:26:18,113  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:23,253  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 10584 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:26:23,255  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:26:23,297  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:26:23,297  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:26:23,760  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:26:23,760  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:26:23,995  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:26:24,063  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 765 ms
+2021-04-05 19:26:24,178  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:24,253  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:26:24,313  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:26:24,326  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:26:24,326  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:26:24,327  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:26:24,327  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:26:24,566  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:26:24,595  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:26:24,602  INFO Start6Application:61 - Started Start6Application in 1.662 seconds (JVM running for 2.148)
+2021-04-05 19:26:29,231  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:26:29,231  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:26:29,232  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:36,742  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 6636 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:26:36,743  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:26:36,771  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:26:36,771  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:26:37,223  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:26:37,223  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:26:37,462  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:26:37,531  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 759 ms
+2021-04-05 19:26:37,575  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:26:37,637  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-05 19:26:37,894  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:37,970  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:26:37,970  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:26:37,970  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:26:37,971  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:26:38,029  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:26:38,058  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:26:38,066  INFO Start6Application:61 - Started Start6Application in 1.553 seconds (JVM running for 2.019)
+2021-04-05 19:26:40,012  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-05 19:26:40,013  INFO DispatcherServlet:547 - Completed initialization in 1 ms
+2021-04-05 19:26:42,292  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:42,292  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-05 19:26:42,295  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-05 19:26:42,355  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-05 19:26:42,356  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-05 19:26:42,361  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 6636 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-05 19:26:42,361  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-05 19:26:42,506  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-05 19:26:42,506  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-05 19:26:42,535  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-05 19:26:42,558  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 195 ms
+2021-04-05 19:26:42,570  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-05 19:26:42,579  INFO DruidDataSource:986 - {dataSource-2} inited
+2021-04-05 19:26:42,684  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-05 19:26:42,704  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-05 19:26:42,704  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-05 19:26:42,704  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-05 19:26:42,704  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-05 19:26:42,724  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-05 19:26:42,735  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-05 19:26:42,739  INFO Start6Application:61 - Started Start6Application in 0.403 seconds (JVM running for 6.692)
+2021-04-05 19:26:42,740  INFO ConditionEvaluationDeltaLoggingListener:63 - Condition evaluation unchanged
+2021-04-05 22:25:20,421  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-05 22:25:20,421  INFO DruidDataSource:2039 - {dataSource-2} closing ...
+2021-04-05 22:25:20,421  INFO DruidDataSource:2111 - {dataSource-2} closed

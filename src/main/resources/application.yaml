@@ -5,7 +5,7 @@ server:
   port: 9090
 mybatis:
   # mapper xml文件路径
-  mapper-locations: classpath*:mapper/*.xml
+  mapper-locations: classpath*:*/mapper/*.xml
   # 通用mapper配置
 mapper:
   mappers: tk.mybatis.mapper.common.Mapper
