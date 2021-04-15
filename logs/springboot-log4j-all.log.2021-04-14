@@ -1,0 +1,437 @@
+2021-04-14 21:56:19,681  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-14 21:56:20,683  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 19512 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 21:56:20,684  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 21:56:20,748  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 21:56:20,748  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 21:56:21,801  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 21:56:21,802  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 21:56:22,735  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 21:56:22,992  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 2242 ms
+2021-04-14 21:56:23,336  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 21:56:23,539  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 21:56:24,574  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-14 21:56:24,806  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-14 21:56:24,807  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-14 21:56:24,808  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-14 21:56:24,808  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-14 21:56:24,949  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-14 21:56:25,007  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-14 21:56:25,023  INFO Start6Application:61 - Started Start6Application in 5.364 seconds (JVM running for 11.337)
+2021-04-14 21:58:07,349  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-14 21:58:07,350  INFO DispatcherServlet:547 - Completed initialization in 0 ms
+2021-04-14 21:58:18,796  WARN DefaultHandlerExceptionResolver:207 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-04-14 22:22:36,847  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-14 22:22:36,848  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 22:22:36,852  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 22:22:43,660  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-14 22:22:44,074  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 12276 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 22:22:44,075  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 22:22:44,122  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 22:22:44,123  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 22:22:45,201  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 22:22:45,202  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 22:22:45,655  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 22:22:45,782  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1658 ms
+2021-04-14 22:22:45,852  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 22:22:45,953  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 22:22:46,802  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-14 22:22:46,842  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-14 22:22:46,961  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-14 22:22:46,962  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-14 22:22:46,963  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-14 22:22:46,964  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-14 22:22:47,230  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-14 22:22:47,681  INFO Start6Application:61 - Started Start6Application in 4.054 seconds (JVM running for 5.487)
+2021-04-14 22:23:58,030  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 22:34:50,856  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 22:35:17,652  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 22:35:28,043  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 22:35:28,074  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-14 22:35:28,077  INFO DispatcherServlet:547 - Completed initialization in 3 ms
+2021-04-14 22:35:30,558  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-14 22:35:30,562  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 22:35:30,563  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 22:35:40,392  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-14 22:35:40,810  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 10584 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 22:35:40,810  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 22:35:40,863  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 22:35:40,863  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 22:35:41,695  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 22:35:41,695  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 22:35:42,131  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 22:35:42,250  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1386 ms
+2021-04-14 22:35:42,324  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 22:35:42,407  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 22:35:43,165  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-14 22:35:43,201  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-14 22:35:43,278  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-14 22:35:43,279  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-14 22:35:43,280  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-14 22:35:43,281  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-14 22:35:43,400  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-14 22:35:43,583  INFO Start6Application:61 - Started Start6Application in 3.217 seconds (JVM running for 4.787)
+2021-04-14 22:35:51,343  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-14 22:35:51,345  INFO DispatcherServlet:547 - Completed initialization in 1 ms
+2021-04-14 23:01:29,056  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:02:07,178  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:04:40,982  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:14:31,346  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:19:03,500  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-14 23:19:03,507  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 23:19:03,511  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 23:19:11,098  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-14 23:19:11,604  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 18684 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 23:19:11,604  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 23:19:11,679  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 23:19:11,680  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 23:19:12,989  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 23:19:12,990  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:19:13,446  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 23:19:13,575  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1894 ms
+2021-04-14 23:19:13,652  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 23:19:13,729  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 23:19:14,510  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-14 23:19:14,540  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-14 23:19:14,616  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-14 23:19:14,617  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-14 23:19:14,617  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-14 23:19:14,618  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-14 23:19:14,729  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-14 23:19:14,943  INFO Start6Application:61 - Started Start6Application in 3.882 seconds (JVM running for 5.584)
+2021-04-14 23:19:24,448  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:19:43,380  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-14 23:19:43,385  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 23:19:43,387  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 23:19:49,697  INFO RestartApplicationListener:88 - Restart disabled due to an agent-based reloader being active
+2021-04-14 23:19:50,213  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 17204 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 23:19:50,214  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 23:19:50,276  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 23:19:50,276  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 23:19:51,369  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 23:19:51,369  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:19:51,877  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 23:19:52,009  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1732 ms
+2021-04-14 23:19:52,100  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 23:19:52,185  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 23:19:52,777  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@27ddd392]
+2021-04-14 23:19:52,779  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 23:19:52,781  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 23:19:52,798  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-14 23:19:52,830 ERROR SpringApplication:858 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@27ddd392]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:583)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at cn.start6.zk.Start6Application.main(Start6Application.java:13)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@27ddd392]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveMultipleBeans(DefaultListableBeanFactory.java:1451)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 22 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@27ddd392]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveMultipleBeans(DefaultListableBeanFactory.java:1451)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 39 more
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@27ddd392]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:72)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:206)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 53 more
+Caused by: java.lang.NoClassDefFoundError: com/google/common/base/Function
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3325)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2466)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 62 more
+Caused by: java.lang.ClassNotFoundException: com.google.common.base.Function
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 66 more
+2021-04-14 23:23:12,821  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 7632 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 23:23:12,823  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 23:23:12,852  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 23:23:12,852  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 23:23:13,660  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 23:23:13,660  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:23:13,949  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 23:23:14,046  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1193 ms
+2021-04-14 23:23:14,102  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 23:23:14,173  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 23:23:14,546  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+2021-04-14 23:23:14,547  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 23:23:14,548  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 23:23:14,559  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-14 23:23:14,573 ERROR SpringApplication:858 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at cn.start6.zk.Start6Application.main(Start6Application.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveMultipleBeans(DefaultListableBeanFactory.java:1451)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 25 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveMultipleBeans(DefaultListableBeanFactory.java:1451)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 42 more
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:72)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:206)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 56 more
+Caused by: java.lang.NoClassDefFoundError: com/google/common/base/Function
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3325)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2466)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 65 more
+Caused by: java.lang.ClassNotFoundException: com.google.common.base.Function
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 69 more
+2021-04-14 23:26:43,137  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 12228 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 23:26:43,138  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 23:26:43,171  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 23:26:43,172  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 23:26:43,914  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 23:26:43,914  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:26:44,182  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 23:26:44,268  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1096 ms
+2021-04-14 23:26:44,318  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 23:26:44,382  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 23:26:44,886  WARN AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+2021-04-14 23:26:44,888  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 23:26:44,889  INFO DruidDataSource:2111 - {dataSource-1} closed
+2021-04-14 23:26:44,911  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-14 23:26:44,933 ERROR SpringApplication:858 - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-web/3.0.0/springfox-spring-web-3.0.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at cn.start6.zk.Start6Application.main(Start6Application.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/C:/Users/zhoukai/.m2/repository/io/springfox/springfox-spring-webmvc/3.0.0/springfox-spring-webmvc-3.0.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 2; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveMultipleBeans(DefaultListableBeanFactory.java:1451)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 25 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveMultipleBeans(DefaultListableBeanFactory.java:1451)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 42 more
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.github.xiaoymin.swaggerbootstrapui.web.SwaggerBootstrapUiController] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2f0e140b]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:72)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:206)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 56 more
+Caused by: java.lang.NoClassDefFoundError: com/google/common/base/Function
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3325)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2466)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 65 more
+Caused by: java.lang.ClassNotFoundException: com.google.common.base.Function
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 69 more
+2021-04-14 23:27:04,628  INFO Start6Application:55 - Starting Start6Application using Java 15 on DESKTOP-TRGUDKD with PID 11776 (C:\Users\zhoukai\Desktop\java-project\demo01\target\classes started by zhoukai in C:\Users\zhoukai\Desktop\java-project\demo01)
+2021-04-14 23:27:04,630  INFO Start6Application:666 - The following profiles are active: dev
+2021-04-14 23:27:04,662  INFO DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-14 23:27:04,662  INFO DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-14 23:27:05,376  WARN ClassPathMapperScanner:44 - Skipping MapperFactoryBean with name 'sysUserMapper' and 'cn.start6.zk.web.sys.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-04-14 23:27:05,377  WARN ClassPathMapperScanner:44 - No MyBatis mapper was found in '[cn.start6.zk]' package. Please check your configuration.
+2021-04-14 23:27:05,660  INFO TomcatWebServer:108 - Tomcat initialized with port(s): 9090 (http)
+2021-04-14 23:27:05,747  INFO ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 1084 ms
+2021-04-14 23:27:05,791  INFO DruidDataSourceAutoConfigure:56 - Init DruidDataSource
+2021-04-14 23:27:05,848  INFO DruidDataSource:986 - {dataSource-1} inited
+2021-04-14 23:27:06,291  INFO ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-14 23:27:06,310  INFO OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2021-04-14 23:27:06,365  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-04-14 23:27:06,365  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-04-14 23:27:06,366  INFO MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-04-14 23:27:06,366  INFO MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2021-04-14 23:27:06,468  INFO TomcatWebServer:220 - Tomcat started on port(s): 9090 (http) with context path ''
+2021-04-14 23:27:06,616  INFO Start6Application:61 - Started Start6Application in 2.222 seconds (JVM running for 2.763)
+2021-04-14 23:27:09,997  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2021-04-14 23:27:09,998  INFO DispatcherServlet:547 - Completed initialization in 0 ms
+2021-04-14 23:28:13,415  INFO ThreadPoolTaskExecutor:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-14 23:28:13,417  INFO DruidDataSource:2039 - {dataSource-1} closing ...
+2021-04-14 23:28:13,418  INFO DruidDataSource:2111 - {dataSource-1} closed

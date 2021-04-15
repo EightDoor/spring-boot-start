@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 
+import cn.start6.zk.utils.R;
 import cn.start6.zk.web.sys.entity.SysUserEntity;
 import cn.start6.zk.web.sys.mapper.SysUserMapper;
 import io.swagger.annotations.Api;
@@ -26,9 +27,10 @@ public class SysUserController {
     SysUserMapper sysUserMapper;
 
     @ApiOperation(value = "用户列表 分页")
-    @GetMapping("listAll")
-    public PageInfo<Object> listAll() {
-        return PageHelper.startPage(1, 10).doSelectPageInfo(() -> sysUserMapper.selectAll());
+    @GetMapping("/listAll")
+    public R<PageInfo<Object>> listAll() {
+        final PageInfo<Object> info = PageHelper.startPage(1, 10).doSelectPageInfo(() -> sysUserMapper.selectAll());
+        return R.ok(info);
     }
 
     @ApiOperation(value = "用户列表")
