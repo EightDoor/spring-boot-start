@@ -2,6 +2,8 @@ package cn.start6.zk.web.sys.controller;
 
 import java.util.List;
 
+import javax.validation.Valid;
+
 import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -40,7 +42,7 @@ public class SysUserController {
     }
 
     @PostMapping("/add")
-    public int add(@RequestBody final SysUserEntity sysUserEntity) {
+    public int add(@RequestBody @Valid final SysUserEntity sysUserEntity) {
         return sysUserMapper.insert(sysUserEntity);
     }
 }
